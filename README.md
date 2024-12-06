@@ -17,8 +17,8 @@
 ![Hugging Face 🤗](https://img.shields.io/badge/Hugging%20Face-FFAC45?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ## Relevant Links:
-- 🎓 Publications at [Google Scholar][https://scholar.google.com/citations?user=QFv-OiQAAAAJ&hl]
-- 🌐 Personal [Website][https://rafaelhferreira.github.io/research/]
+- 🎓 Publications at [Google Scholar](https://scholar.google.com/citations?user=QFv-OiQAAAAJ&hl)
+- 🌐 Personal [Website](https://rafaelhferreira.github.io/research/)
 
  
 ## Get in Touch
